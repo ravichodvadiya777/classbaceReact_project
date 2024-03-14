@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+img{
+  display: block;
+}
+
+.img-box{
+  overflow: hidden;
+}
+.card:hover img{
+  scale: 1.1;
+}
